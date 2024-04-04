@@ -1,0 +1,25 @@
+.eleicao_container{
+    width: 450px;
+    margin: 0 auto;
+    padding: 2em;
+    background-color: silver;
+}
+
+.eleicao_lista{
+    margin-left: 100px;
+}
+
+.eleicao_button_adicionar{
+    margin-left: 350px;
+    border: none;
+    height: 30px;
+    background-color: azure;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+.eleicao_button_adicionar:hover{
+    cursor: pointer;
+    background-color: white;
+}
+

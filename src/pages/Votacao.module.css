@@ -1,0 +1,53 @@
+.votacao_container{
+    width: 450px;
+    margin: 0 auto;
+    padding: 2em;
+    background-color: silver;
+}
+
+.votacao_container h1{
+    margin-bottom: 0.5em;
+}
+
+.votacao_nomechapa{
+    margin-left: 100px;
+}
+
+.votacao_botao_confirmar{
+    background-color: lawngreen;
+    border: none;
+    height: 50px;
+    width: 100px;
+    color: white;
+    cursor: pointer;
+}
+
+.votacao_botao_limpar{
+    background-color: crimson;
+    margin-left: 2em;
+    border: none;
+    height: 50px;
+    width: 100px;
+    color: white;
+    cursor: pointer;
+}
+
+.votacao_botao_branco{
+    background-color: white;
+    margin-left: 2em;
+    border: none;
+    height: 50px;
+    width: 100px;
+    cursor: pointer;
+}
+
+.votacao_botao_pesquisar{
+    width: 100px;
+    margin-left: 5px;
+    cursor: pointer;
+}
+
+.input{
+    width: 100px;
+}
+

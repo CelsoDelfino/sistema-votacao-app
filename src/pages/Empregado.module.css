@@ -1,0 +1,44 @@
+.empregado_container{
+    width: 450px;
+    margin: 0 auto;
+    padding: 2em;
+    background-color: silver;
+}
+
+.empregado_lista{
+    margin-left: 100px;
+}
+
+.empregado_adicionar{
+    margin-left: 350px;
+    border: none;
+    height: 30px;
+    background-color: azure;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+.empregado_adicionar:hover{
+    cursor: pointer;
+    background-color: white;
+}
+
+.adicionarEmpregado{
+    margin-left: 400px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.adicionarEmpregado_campos{
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+}
+
+
+.adicionarEmpregado_campos_check{
+    display: flex;
+    justify-content: baseline;
+}
+
+

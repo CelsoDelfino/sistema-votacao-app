@@ -1,0 +1,35 @@
+.chapa_container{
+    width: 450px;
+    margin: 0 auto;
+    padding: 2em;
+    background-color: silver;
+}
+
+.chapa_lista{
+    margin-left: 100px;
+}
+
+.chapa_adicionar{
+    margin-left: 350px;
+    border: none;
+    height: 30px;
+    background-color: azure;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+.chapa_adicionar:hover{
+    cursor: pointer;
+    background-color: white;
+}
+
+.adicionarEmpregado_campos{
+    display: flex;
+    align-items: baseline;
+}
+
+.adicionarEmpregado{
+    margin-left: 390px;
+    cursor: pointer;
+    margin-top: 10px;
+}

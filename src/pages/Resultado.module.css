@@ -1,0 +1,22 @@
+.resultado_container{
+    width: 450px;
+    margin: 0 auto;
+    padding: 2em;
+    background-color: silver;
+}
+
+.resultado_votos{
+    margin-left: 100px;
+}
+
+.resultado_lista_votos{
+    margin-left: 50px;
+}
+
+.resultado_button{
+    background-color: white;
+    border: none;
+    color: black;
+    margin-left: 150px;
+    text-decoration: none;
+}
