@@ -3,7 +3,7 @@ import styles from './Empregado.module.css'
 function AdicionarEmpregado(){
     return(
         <div className={styles.empregado_container}>
-            <h1>ADICIONAR CHAPA</h1>
+            <h1>ADICIONAR EMPREGADO</h1>
             <div className={styles.adicionarEmpregado_campos}>
             <label>Matrícula: </label> 
             <input type='text' />
